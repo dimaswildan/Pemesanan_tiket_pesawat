@@ -1,0 +1,16 @@
+body{
+    background: url(af.jpg);
+    color: #fff;
+}
+.pemesanan{
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+.pemesanan h4{
+    color: white;
+}
+.kotak{
+    width: 350px;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
